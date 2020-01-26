@@ -37,3 +37,12 @@ h2 i {
 body {
     margin: 0;
 }
+
+ul {
+    list-style: none;
+    padding: 5em 1em;
+}
+
+li {
+   padding: 5px; 
+}
